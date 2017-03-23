@@ -2,7 +2,7 @@
 
 Introduction to WebGL with Babylon.js
 
----
+![solar](https://github.com/glls/webGL-intro/blob/master/assets/images/2.png?raw=true)
 
 ## Information
 
@@ -28,8 +28,8 @@ Start a local http-server with :
 
 
 ![axes](https://github.com/glls/webGL-intro/blob/master/assets/images/babylonjs%20coordinates.png?raw=true)
-![shapes](https://github.com/glls/webGL-intro/blob/master/assets/images/1.png?raw=true)
-![solar](https://github.com/glls/webGL-intro/blob/master/assets/images/2.png?raw=true)
+
+
 
 ## Links
 
@@ -44,3 +44,5 @@ Start a local http-server with :
 
 * Added HTML5 template from <https://html5boilerplate.com/>
 * Added Basic Shapes and Solar System
+
+![shapes](https://github.com/glls/webGL-intro/blob/master/assets/images/1.png?raw=true)
